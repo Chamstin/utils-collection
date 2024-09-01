@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: code_merge
+Version: 0.1
+Summary: A tool to consolidate code files from a directory
+Home-page: https://github.com/yourusername/code_merge
+Author: Ankhly Chamstin
+Author-email: chamstin@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+## Tool Collection Project - Code Merging Tool
+
+### Code Merging Tool
+Input a file path to merge code files in the project folder, supporting both CLI with arguments and GUI execution.

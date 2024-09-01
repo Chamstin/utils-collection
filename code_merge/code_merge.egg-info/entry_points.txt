@@ -1,0 +1,2 @@
+[console_scripts]
+code_merge = code_merge.main:main
